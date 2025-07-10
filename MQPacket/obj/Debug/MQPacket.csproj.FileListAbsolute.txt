@@ -1,0 +1,6 @@
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\MQPacket.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\MQPacket.pdb
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\obj\Debug\MQPacket.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\obj\Debug\MQPacket.pdb

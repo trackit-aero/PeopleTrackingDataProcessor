@@ -1,0 +1,5 @@
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Release\MQTTClient.vbprojAssemblyReference.cache
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Release\MQTTClient.frmMain.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Release\MQTTClient.frmReaders.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Release\MQTTClient.Resources.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Release\MQTTClient.vbproj.GenerateResource.cache

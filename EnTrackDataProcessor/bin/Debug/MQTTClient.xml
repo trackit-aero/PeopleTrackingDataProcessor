@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MQTTClient
+</name>
+</assembly>
+<members>
+<member name="T:MQTTClient.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MQTTClient.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MQTTClient.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwAssetsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetTrackingLogDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetDetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DevicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwActiveTaggableAssetsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLiveAssetsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleLocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.NotificationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DeviceAntennaDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwDeviceProcessingRulesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLogicalDevicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwAssetsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetTrackingLogRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetDetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DevicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwActiveTaggableAssetsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLiveAssetsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleLocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.NotificationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DeviceAntennaDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwDeviceProcessingRulesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLogicalDevicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwAssetsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetTrackingLogRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.AssetDetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DevicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwActiveTaggableAssetsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLiveAssetsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.BusinessRuleLocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.NotificationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.DeviceAntennaDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwDeviceProcessingRulesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DB.vwLogicalDevicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.vwAssetsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.AssetTrackingLogTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.AssetDetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.DevicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.vwActiveTaggableAssetsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.BusinessRuleMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.vwLiveAssetsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.BusinessRuleLocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.NotificationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.DeviceAntennaDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.vwDeviceProcessingRulesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.vwLogicalDevicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MQTTClient.DBTableAdapters.TableAdapterManager.UpdateUpdatedRows(MQTTClient.DB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MQTTClient.DBTableAdapters.TableAdapterManager.UpdateInsertedRows(MQTTClient.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MQTTClient.DBTableAdapters.TableAdapterManager.UpdateDeletedRows(MQTTClient.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MQTTClient.DBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MQTTClient.DBTableAdapters.TableAdapterManager.UpdateAll(MQTTClient.DB)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MQTTClient.DBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

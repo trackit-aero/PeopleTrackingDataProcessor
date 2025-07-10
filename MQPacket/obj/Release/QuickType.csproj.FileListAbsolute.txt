@@ -1,0 +1,9 @@
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Release\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Release\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Release\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Release\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Release\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Release\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Release\QuickType.csproj.Up2Date
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Release\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Release\MQPacket.pdb

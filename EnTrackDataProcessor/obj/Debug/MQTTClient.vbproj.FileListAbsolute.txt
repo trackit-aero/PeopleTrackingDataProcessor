@@ -1,0 +1,107 @@
+C:\Users\hbrag\AppData\Local\Temporary Projects\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQTT.xml
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\paho-mqtt3a.dll
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQTTClient.xml
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\log4net.dll
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQPacket.dll
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\MQPacket.pdb
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\log4net.xml
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbprojResolveAssemblyReference.cache
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Form1.resources
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Resources.resources
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.GenerateResource.Cache
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.xml
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+D:\Projects\BLE\Minew\MQTTClient\MQTTClient\bin\Debug\Data.txt
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Resources.resources
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.GenerateResource.cache
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CoreCompileInputs.cache
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.xml
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQTT.xml
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\paho-mqtt3a.dll
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQTTClient.xml
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\log4net.dll
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQPacket.dll
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\log4net.xml
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\MQPacket.pdb
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmMain.resources
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CopyComplete
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmReaders.resources
+D:\Projects\NMC\Source\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbprojAssemblyReference.cache
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTT.xml
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\paho-mqtt3a.dll
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.xml
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.dll
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.dll
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.xml
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.pdb
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbprojAssemblyReference.cache
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmMain.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmReaders.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Resources.resources
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.GenerateResource.cache
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CopyComplete
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.xml
+D:\TrackIT\Project Source Code\NMC\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTT.xml
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\paho-mqtt3a.dll
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.xml
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.dll
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.dll
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.xml
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.pdb
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbprojAssemblyReference.cache
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmMain.resources
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmReaders.resources
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Resources.resources
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.GenerateResource.cache
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CopyComplete
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.xml
+D:\TrackIT\Project Source Code\Danat\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmMain.resources
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.frmReaders.resources
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Resources.resources
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.GenerateResource.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTT.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\paho-mqtt3a.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQTTClient.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\log4net.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQTTClient\obj\Debug\MQTTClient.vbproj.CopyComplete

@@ -1,0 +1,52 @@
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\MQPacket.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\MQPacket.pdb
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\obj\Debug\QuickType.csprojResolveAssemblyReference.cache
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\obj\Debug\MQPacket.dll
+D:\Projects\BLE\Minew\MQTTClient\MQPacket\obj\Debug\MQPacket.pdb
+D:\Projects\NMC\Source\MQTTClient\MQPacket\bin\Debug\MQPacket.dll
+D:\Projects\NMC\Source\MQTTClient\MQPacket\bin\Debug\MQPacket.pdb
+D:\Projects\NMC\Source\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\NMC\Source\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\NMC\Source\MQTTClient\MQPacket\obj\Debug\QuickType.csprojAssemblyReference.cache
+D:\Projects\NMC\Source\MQTTClient\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\Projects\NMC\Source\MQTTClient\MQPacket\obj\Debug\QuickType.csproj.CopyComplete
+D:\Projects\NMC\Source\MQTTClient\MQPacket\obj\Debug\MQPacket.dll
+D:\Projects\NMC\Source\MQTTClient\MQPacket\obj\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\obj\Debug\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\obj\Debug\QuickType.csproj.CopyComplete
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\obj\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\MQTTClient\MQPacket\obj\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EntrackX1\MiddleWare\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.Up2Date
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.Up2Date
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\QuickType.csproj.Up2Date
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\MQPacket.pdb

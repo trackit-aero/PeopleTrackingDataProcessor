@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EnTrackxDataProcessor
+</name>
+</assembly>
+<members>
+<member name="T:EnTrackxDataProcessor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EnTrackxDataProcessor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EnTrackxDataProcessor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwCollectionPointStagesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.DeviceDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagMasterDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.NotificationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TokenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.ReaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagAllocationHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.PersonDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveReaderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.MovementHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveTagDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwPersonLocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwCollectionPointStagesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.DeviceDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagMasterRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.NotificationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TokenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.ReaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagAllocationHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.PersonRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveReaderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.MovementHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveTagRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwPersonLocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwCollectionPointStagesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.DeviceDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagMasterRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.NotificationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TokenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.ReaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagAllocationHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.PersonRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.TagRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveReaderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.MovementHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwActiveTagRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DB.vwPersonLocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.vwCollectionPointStagesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.DeviceDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TagMasterTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.NotificationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TokenAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.ReaderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TagAllocationHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.PersonTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TagTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.vwActiveReaderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.MovementHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.vwActiveTagTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.vwPersonLocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.UpdateUpdatedRows(EnTrackxDataProcessor.DB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.UpdateInsertedRows(EnTrackxDataProcessor.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.UpdateDeletedRows(EnTrackxDataProcessor.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.UpdateAll(EnTrackxDataProcessor.DB)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EnTrackxDataProcessor.DBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|d:\\trackit\\onedrive - trackit solutions\\project source code\\malaysia\\entrackdataprocessor_moko\\entrackdataprocessor\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\db.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\db.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\mdapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\mdapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\beb109e2a018cb6fe2a0080c030a9ccec80eb6dcaeea06f60a585f9930917709\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e634508d0a1eb7428b3c162fd3c20c6585b52f76983ae8d5bcb15c1c5ca4f289\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\mqpacket\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|solutionrelative:mqpacket\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\mqpacket\\mokopacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|solutionrelative:mqpacket\\mokopacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\mqpacket\\mqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|solutionrelative:mqpacket\\mqpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\mqpacket\\mdmoko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}|MQPacket\\QuickType.csproj|solutionrelative:mqpacket\\mdmoko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\mdnotify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\mdnotify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\mailutils.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\mailutils.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\5c875f6d84c4640fc8d51737a00b128a90f08ee2156a2d5caacbccb5ce670073\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\b98193c05659ebc5e8e69cd8e94029093c3f83cd0d817cbc0f5a67fa7b2f82a4\\NumberFormatInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\3c972fe5a65cefc8129642a0c8f030074763bf080cd9878daeb30ee7335d7e7d\\MqttClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\entrackdataprocessor\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1414D8FD-3F0C-4845-B06E-65D71C731243}|EnTrackDataProcessor\\EnTrackxDataProcessor.vbproj|solutionrelative:entrackdataprocessor\\my project\\application.myapp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\8caa55885db827e4d60f3d5c73afc8fffa843cc71a5a1ef73ed88dc8694fb812\\ThrowHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\760aa807f37f8556911f34a05778eaffb2ff5225538adbdee27ab23625297b51\\Delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e87de3cebd93ebe0369a8c78e988055bffc8e58fcb11ebe7d65ea1b0bf67da0c\\ArrayList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\frmMain.vb",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\frmMain.vb",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\frmMain.vb",
+              "RelativeToolTip": "EnTrackDataProcessor\\frmMain.vb",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAUwEkBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-02T15:17:20.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NumberFormatInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\b98193c05659ebc5e8e69cd8e94029093c3f83cd0d817cbc0f5a67fa7b2f82a4\\NumberFormatInfo.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\b98193c05659ebc5e8e69cd8e94029093c3f83cd0d817cbc0f5a67fa7b2f82a4\\NumberFormatInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:48:24.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mdApp.vb",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\mdApp.vb",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\mdApp.vb",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\mdApp.vb",
+              "RelativeToolTip": "EnTrackDataProcessor\\mdApp.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T11:20:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mdMoko.cs",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\mdMoko.cs",
+              "RelativeDocumentMoniker": "MQPacket\\mdMoko.cs",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\mdMoko.cs",
+              "RelativeToolTip": "MQPacket\\mdMoko.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:48:42.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MokoPacket.cs",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\MokoPacket.cs",
+              "RelativeDocumentMoniker": "MQPacket\\MokoPacket.cs",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\MokoPacket.cs",
+              "RelativeToolTip": "MQPacket\\MokoPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:54:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.xsd",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\DB.xsd",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\DB.xsd",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\DB.xsd",
+              "RelativeToolTip": "EnTrackDataProcessor\\DB.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-08T13:46:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundWorker.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\beb109e2a018cb6fe2a0080c030a9ccec80eb6dcaeea06f60a585f9930917709\\BackgroundWorker.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\beb109e2a018cb6fe2a0080c030a9ccec80eb6dcaeea06f60a585f9930917709\\BackgroundWorker.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAawAMBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:30:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e634508d0a1eb7428b3c162fd3c20c6585b52f76983ae8d5bcb15c1c5ca4f289\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e634508d0a1eb7428b3c162fd3c20c6585b52f76983ae8d5bcb15c1c5ca4f289\\ExecutionContext.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAawPsBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:40:44.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\App.config",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\App.config",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\App.config",
+              "RelativeToolTip": "EnTrackDataProcessor\\App.config",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T10:12:18.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\General.cs",
+              "RelativeDocumentMoniker": "MQPacket\\General.cs",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\General.cs",
+              "RelativeToolTip": "MQPacket\\General.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:25:05.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\frmMain.vb",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\frmMain.vb",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\frmMain.vb [Design]",
+              "RelativeToolTip": "EnTrackDataProcessor\\frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T06:09:19.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MqPacket.cs",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\MqPacket.cs",
+              "RelativeDocumentMoniker": "MQPacket\\MqPacket.cs",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\MQPacket\\MqPacket.cs",
+              "RelativeToolTip": "MQPacket\\MqPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:00:30.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mdNotify.vb",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\mdNotify.vb",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\mdNotify.vb",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\mdNotify.vb",
+              "RelativeToolTip": "EnTrackDataProcessor\\mdNotify.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-29T07:56:43.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailUtils.vb",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\MailUtils.vb",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\MailUtils.vb",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\MailUtils.vb",
+              "RelativeToolTip": "EnTrackDataProcessor\\MailUtils.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T11:24:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\5c875f6d84c4640fc8d51737a00b128a90f08ee2156a2d5caacbccb5ce670073\\Control.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\5c875f6d84c4640fc8d51737a00b128a90f08ee2156a2d5caacbccb5ce670073\\Control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:52:19.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MqttClient.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\3c972fe5a65cefc8129642a0c8f030074763bf080cd9878daeb30ee7335d7e7d\\MqttClient.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\3c972fe5a65cefc8129642a0c8f030074763bf080cd9878daeb30ee7335d7e7d\\MqttClient.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:50:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.myapp",
+              "DocumentMoniker": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\My Project\\Application.myapp",
+              "RelativeDocumentMoniker": "EnTrackDataProcessor\\My Project\\Application.myapp",
+              "ToolTip": "D:\\TrackIT\\OneDrive - TrackIT Solutions\\Project Source Code\\Malaysia\\EnTrackDataProcessor_Moko\\EnTrackDataProcessor\\My Project\\Application.myapp",
+              "RelativeToolTip": "EnTrackDataProcessor\\My Project\\Application.myapp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T08:53:53.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e87de3cebd93ebe0369a8c78e988055bffc8e58fcb11ebe7d65ea1b0bf67da0c\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\e87de3cebd93ebe0369a8c78e988055bffc8e58fcb11ebe7d65ea1b0bf67da0c\\ArrayList.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:03:33.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\760aa807f37f8556911f34a05778eaffb2ff5225538adbdee27ab23625297b51\\Delegate.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\760aa807f37f8556911f34a05778eaffb2ff5225538adbdee27ab23625297b51\\Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:14:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThrowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\8caa55885db827e4d60f3d5c73afc8fffa843cc71a5a1ef73ed88dc8694fb812\\ThrowHelper.cs",
+              "ToolTip": "C:\\Users\\dell\\AppData\\Local\\Temp\\.vsdbgsrc\\8caa55885db827e4d60f3d5c73afc8fffa843cc71a5a1ef73ed88dc8694fb812\\ThrowHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:56:55.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

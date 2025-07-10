@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickType", "MQPacket\QuickType.csproj", "{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EnTrackxDataProcessor", "EnTrackDataProcessor\EnTrackxDataProcessor.vbproj", "{1414D8FD-3F0C-4845-B06E-65D71C731243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59FE43D-2482-4ECE-B3BF-C64C04D4721C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1414D8FD-3F0C-4845-B06E-65D71C731243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1414D8FD-3F0C-4845-B06E-65D71C731243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1414D8FD-3F0C-4845-B06E-65D71C731243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1414D8FD-3F0C-4845-B06E-65D71C731243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E51D77AA-3125-4EC2-89CE-CCE319EFE928}
+	EndGlobalSection
+EndGlobal

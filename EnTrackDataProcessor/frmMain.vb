@@ -152,16 +152,26 @@ Public Class frmMain
                 ComboBox1.Items.Add(readerType & " > " & macAddress & " > " & rw.LocationName)
 
                 If Not hshEndPoint.ContainsKey(macAddress) Then
-                    Dim topic As New EndPointTopic With {
-                    .Server = MQTTServer,
-                        .Port = MQTTPort,
-                        .Topic = "/" + readerType + "/" + macAddress + "/" + MQTTTopic
-                    }
-                    hshEndPoint.Add(macAddress, topic)
+                    If readerType = "MKGW4" Then
+                        Dim topic As New EndPointTopic With {
+                        .Server = MQTTServer,
+                            .Port = MQTTPort,
+                            .Topic = "/" + readerType + "/" + macAddress + "/" + MQTTTopic
+                        }
+                        hshEndPoint.Add(macAddress, topic)
+                    Else
+                        Dim topic As New EndPointTopic With {
+                            .Server = MQTTServer,
+                            .Port = MQTTPort,
+                            .Topic = "/entrackx/tagdata"
+                        }
+                        hshEndPoint.Add(macAddress, topic)
+                    End If
+
                 End If
 
 
-                If Not hshLoc.Contains(macAddress) Then
+                    If Not hshLoc.Contains(macAddress) Then
                     Dim l As New Reader With {
                             .GatewayKey = macAddress,
                             .GatewayType = readerType,
@@ -278,7 +288,7 @@ Public Class frmMain
                 Dim q() As MqPacket = MqPacket.FromJson(ReceivedMessage)
                 Dim g As MqPacket
                 For Each x In q
-                    If x.Type = "Gateway" Then
+                    If x.Type = "Gateway" Or x.PurpleType = "Gateway" Then
                         g = x
                         Exit For
                     End If
@@ -288,7 +298,7 @@ Public Class frmMain
                     log.Error("No gateway recieved:" & ReceivedMessage)
                 Else
                     Dim macAddress As String = If(IsDBNull(g.Mac), "", g.Mac)
-                    Dim gw As Reader = hshLoc(macAddress)
+                    Dim gw As Reader = hshLoc(macAddress.ToLower)
 
                     If IsNothing(gw) Then
                         'log.Debug("Unknown Gateway:" & t.MacID & ">" & t.Gateway)
@@ -309,7 +319,9 @@ Public Class frmMain
                                 AddTag(x, gw)
                             Case "Gateway"
                             Case Else
-                                AddTag(x, gw)
+                                If Not x.PurpleType = "Gateway" Then
+                                    AddTag(x, gw)
+                                End If
                         End Select
                     Next
                 End If
@@ -322,8 +334,7 @@ Public Class frmMain
 
     Private Sub AddTag(x As Devicearray, g As Reader)
 
-
-        Dim batteryString As String = x.battVoltage
+        Dim batteryString As String = If(IsDBNull(x.battVoltage), "", x.battVoltage)
         Dim batteryNumeric As Integer? = Nothing
 
 
@@ -372,7 +383,7 @@ Public Class frmMain
 
     Private Sub AddTag(x As MqPacket, g As Reader)
 
-        Dim batteryString As String = x.Battery
+        Dim batteryString As String = If(IsDBNull(x.Battery), "", x.Battery)
         Dim batteryNumeric As Integer? = Nothing
 
         If x.Mac.ToUpper() = "C300004FB5E7" Then
@@ -392,7 +403,7 @@ Public Class frmMain
 
         Dim macAddress As String = If(IsDBNull(g.GatewayKey), "", g.GatewayKey)
         Dim t As New TagRead With {
-            .TagNumber = x.Mac,
+            .TagNumber = x.Mac.ToLower,
             .RSSI = x.Rssi,
             .ReadTime = Now,
             .RawData = x.RawData,

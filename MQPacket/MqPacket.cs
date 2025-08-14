@@ -24,6 +24,9 @@ namespace QuickType
         [JsonProperty("type")]
         public string Type { get; set; }
 
+        [JsonProperty("purpletype")]
+        public string PurpleType { get; set; }
+
         [JsonProperty("mac")]
         public string Mac { get; set; }
 

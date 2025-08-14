@@ -50,3 +50,12 @@ D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackData
 D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\QuickType.csproj.Up2Date
 D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\MQPacket.dll
 D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\Malaysia\EnTrackDataProcessor_Moko\MQPacket\obj\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\bin\Debug\MQPacket.pdb
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\bin\Debug\Newtonsoft.Json.xml
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.AssemblyReference.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.CoreCompileInputs.cache
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\obj\Debug\QuickType.csproj.Up2Date
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.dll
+D:\TrackIT\OneDrive - TrackIT Solutions\Project Source Code\EnTrackPPL\EnTrackDataProcessor\MQPacket\obj\Debug\MQPacket.pdb
